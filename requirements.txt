@@ -1,0 +1,6 @@
+wheel
+numpy
+torch
+mujoco-py<2.2,>=2.1
+gym[all]
+matplotlib
